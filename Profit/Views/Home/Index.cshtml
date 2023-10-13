@@ -1,0 +1,61 @@
+﻿@using Newtonsoft.Json;
+@using Profit.Models;
+@model List<Product>
+
+
+
+<main class="main-wrap">
+    <section class="content-main">
+        <div class="card mb-4">
+            <!-- card-header end// -->
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>#ID</th>
+                                <th scope="col">Title</th>
+                                <th scope="col">Category</th>
+                                <th scope="col">Price</th>
+                                <th scope="col" class="text-end">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(var product in Model)
+                            {
+                                <tr>
+                                    <td>@product.Id</td>
+                                    <td><b>@product.Title</b></td>
+                                    <td>@product.Category</td>
+                                    <td>@product.Price</td>
+                                    <td class="text-end">
+                                        <a class ="btn btn-md rounded font-sm" onclick="AddToData({title:'@product.Title.Replace("'",string.Empty)', price: '@product.Price', category:'@product.Category.Replace("'",string.Empty)'})">Add</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- table-responsive //end -->
+            </div>
+            <!-- card-body end// -->
+        </div>
+        <!-- card end// -->
+    </section>
+    <!-- content-main end// -->
+</main>
+
+<script>
+    function AddToData(data){
+        $.ajax('@Url.Action("AddProduct","Data")', {
+            data: { product: data },
+            method: "POST",
+            success: function (res) {
+                alert("ugurlu")               
+            },
+            error:function(){
+                alert("error")
+            }
+        })
+    };
+</script>

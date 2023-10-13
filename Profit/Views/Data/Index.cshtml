@@ -1,0 +1,64 @@
+﻿@model List<Product>
+@{
+    int i;
+}
+
+
+<main class="main-wrap">
+    <section class="content-main">
+        <div class="card mb-4">
+            <header class="card-header">
+                <div class="row gx-3">
+                    <form method="get">
+                        <div class="col-lg-4 col-md-6 me-auto">
+                            <input name="searchTitle" type="text" placeholder="Search..." class="form-control" />
+                        </div>
+                    </form>
+                </div>
+            </header>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>#ID</th>
+                                <th scope="col">Title</th>
+                                <th scope="col">Category</th>
+                                <th scope="col">Price</th>
+                                <th scope="col" class="text-end">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var product in Model)
+                            {
+                                <tr>
+                                    <td>@product.Id</td>
+                                    <td><b>@product.Title</b></td>
+                                    <td>@product.Category</td>
+                                    <td>@product.Price</td>
+                                    @using (Html.BeginForm("DeleteProduct", "Data", new { id = product.Id }, FormMethod.Post))
+                                    {
+                                        <td class="text-end">
+                                            <input class="btn btn-danger" type="submit" value="Delete" />
+                                        </td>
+                                    }
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="pagination-area mt-15 mb-50">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-start">
+                    @for (i = 1; i <= (int)Math.Ceiling(ViewBag.ProductCount / (double)ViewBag.PageSize); i++)
+                    {
+                        var isActive = (i == ViewBag.CurretPage) ? "active" : "";
+                        <li class="page-item @isActive "><a class="page-link" href="@Url.Action("Index", "Data", new {searchTitle = ViewBag.SearchTitle, page = i,  pageSize = ViewBag.PageSize })">@i</a></li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </section>
+</main>

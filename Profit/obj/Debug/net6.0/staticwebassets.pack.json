@@ -1,0 +1,685 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Profit.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Profit.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\vendors\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\vendors\\material-icon-round.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\material-icon-round.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\vendors\\normalize.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\vendors\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\css\\vendors\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Round.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Round.ttf"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Round.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.ttf"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-Sharp.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons-TwoTone.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\fonts\\material-icon\\MaterialIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material-icon\\MaterialIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\brand.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\brands\\vendor-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brands\\vendor-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\card-brands\\1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\card-brands\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\card-brands\\2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\card-brands\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\card-brands\\3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\card-brands\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\card-brands\\4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\card-brands\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\icons\\stars-active.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\stars-active.svg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\icons\\starts-disable.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\starts-disable.svg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\12-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\12-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\12-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\items\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\items\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\misc\\map.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\misc\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\people\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\people\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\404.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\flag-cn.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-cn.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\flag-fr.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-fr.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\flag-jp.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-jp.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\flag-us.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-us.png"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\imgs\\theme\\upload.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\custom-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\jquery.fullscreen.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery.fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\js\\vendors\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\abstracts\\_import-vendors.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_import-vendors.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\base\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\components\\_elements.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\components\\_items.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\components\\_navigation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\layout\\_layout-dark.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_layout-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\layout\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\layout\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FX506HCB\\source\\repos\\Profit\\Profit\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Profit.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Profit.props",
+      "PackagePath": "build\\Profit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Profit.props",
+      "PackagePath": "buildMultiTargeting\\Profit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Profit.props",
+      "PackagePath": "buildTransitive\\Profit.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
